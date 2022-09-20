@@ -52,13 +52,17 @@ Note that this was the easy way to *create* your website, but it does come at a 
      
 </div>
 
+<div class="The hard way" markdown="1">
+
 ## The hard way (using ruby gems)
 
 If you followed the easy method above, then you already have your site and you can skip this section! If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard). This is harder to set up initially, but it makes it super easy to keep your site up to date with Beautiful Jekyll when more features are added in the future.
 
+</div>
+
 <style>
 
-.gs-section-01 h3 { 
+.gs-section-01 { 
      color: red;
      font-size: 30px;
      }
