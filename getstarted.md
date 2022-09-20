@@ -24,7 +24,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -32,7 +32,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-03" markdown="1">
 
 ### 3. Customize your website settings
 
@@ -42,7 +42,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-04" markdown="1">
      
 ### 4. Congratulations! You have a website!
 
@@ -59,11 +59,9 @@ If you followed the easy method above, then you already have your site and you c
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
+     color: red;
      font-size: 30px;
-}
+     }
 
 </style>
   
