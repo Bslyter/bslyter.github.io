@@ -16,7 +16,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div class="gs-section-01" markdown="1">
+<div class="pretty-text" markdown="1">
 
 ### 1. Fork this project
 
