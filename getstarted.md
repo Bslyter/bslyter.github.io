@@ -52,7 +52,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      
 </div>
 
-gs-section-01 {
+.gs-section-01 {
   border: 0 none;
   color: #cccccc;
   height: 4px;
