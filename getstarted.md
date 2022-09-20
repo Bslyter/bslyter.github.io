@@ -60,7 +60,7 @@ If you followed the easy method above, then you already have your site and you c
 
 </div>
 
-<style>
+<style markdown="1">
 
 .gs-section-01 { 
      color: red;
