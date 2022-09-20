@@ -60,13 +60,57 @@ If you followed the easy method above, then you already have your site and you c
 
 </div>
 
-<style markdown="1">
 
-.gs-section-01 { 
-     color: red;
-     font-size: 30px;
-     }
 
-</style>
   
+  
+
+
+<style>
+
+.gs-section-01 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: justify;
+}
+
+.gs-section-01 p {
+  line-height: 1.8;
+  padding-bottom: 80px;
+  }
+  
+.gs-section-01 {
+  color: darkred;
+  font-size: 40px;
+}
+
+.gs-section-02 {
+  color: darkred;
+  font-size: 30px;
+  margin-top: 60px;
+}
+
+.gs-section-03 {
+  color: darkred;
+}
+
+.gs-section-04 {
+  color: darkred;
+}
+  
+pre{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #eee;
+  width: 750px!ie7;
+  padding-bottom: 20px!ie7;
+}
+  
+</style>
+     
+     
+
   
