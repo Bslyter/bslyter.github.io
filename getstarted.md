@@ -77,12 +77,7 @@ If you followed the easy method above, then you already have your site and you c
 		}
 	}
 </style>
-<article class="The hard way">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-</article>
 
-  
   
 
 
