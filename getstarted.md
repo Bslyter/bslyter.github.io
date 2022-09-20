@@ -52,31 +52,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      
 </div>
 
-<div class="The hard way" markdown="1">
 
-## The hard way (using ruby gems)
-
-If you followed the easy method above, then you already have your site and you can skip this section! If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard). This is harder to set up initially, but it makes it super easy to keep your site up to date with Beautiful Jekyll when more features are added in the future.
-
-</div>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.The hard way {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.The hard way {
-			padding: 15px;
-		}
-	}
-</style>
 
   
 
