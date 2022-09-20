@@ -60,19 +60,27 @@ If you followed the easy method above, then you already have your site and you c
 
 </div>
 
-gs-section-01 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.The hard way {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
 
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
+	@media (max-width: 767px) {
+		.The hard way {
+			padding: 15px;
+		}
+	}
+</style>
+<article class="The hard way">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
 
   
   
