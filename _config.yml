@@ -14,7 +14,7 @@ author: Blake Slyter
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Rabbit Hole: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
