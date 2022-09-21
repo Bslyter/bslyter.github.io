@@ -26,11 +26,11 @@ Here's a useless table:
 
 How about a yummy goat?
 
-![Goat](https://www.gamespot.com/images/1300-2840589)
+![Goat](assets/img/goat.jpg)
 
 It can also be centered!
 
-![Goat](https://www.gamespot.com/images/1300-2840589){: .mx-auto.d-block :}
+![Goat](assets/img/goat.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
