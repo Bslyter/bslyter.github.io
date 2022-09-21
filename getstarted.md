@@ -55,10 +55,31 @@ Note that this was the easy way to *create* your website, but it does come at a 
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: rgb(140, 29, 43) }
 
 .gs-section-01 p {
      font-size: 30px;
 }
+     
+.gs-section-02 h3 { 
+     color: black }
 
+.gs-section-02 p {
+     font-size: 30px;
+}
+     
+.gs-section-03 h3 { 
+     color: rgb(140, 29, 43) }
+
+.gs-section-03 p {
+     font-size: 30px;
+}
+
+.gs-section-02 h3 { 
+     color: black }
+
+.gs-section-02 p {
+     font-size: 30px;
+}
+     
 </style>
