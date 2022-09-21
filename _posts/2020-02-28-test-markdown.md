@@ -26,10 +26,6 @@ Here's a useless table:
 
 How about a yummy goat?
 
-![Goat](/assets/img/goat.gif)
-
-It can also be centered!
-
 ![Goat](/assets/img/goat.gif){: .mx-auto.d-block :}
 
 Here's a code chunk:
