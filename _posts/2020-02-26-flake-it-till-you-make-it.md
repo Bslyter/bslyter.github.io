@@ -2,9 +2,9 @@
 layout: post
 title: Asteroid!
 subtitle: Run for the Hills by Stegy Saurus
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Volcano.jpg
 thumbnail-img: /assets/img/Asteroid.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Volcano.jpg
 tags: [books, test]
 ---
 
