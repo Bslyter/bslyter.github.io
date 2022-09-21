@@ -28,6 +28,10 @@ How about a yummy goat?
 
 ![Goat](/assets/img/goat.gif){: .mx-auto.d-block :}
 
+Please don't tease me.
+
+![Dino2](/assets/img/Dino2.jpg){: .mx-auto.d-block :}
+
 Here's a code chunk:
 
 ~~~
