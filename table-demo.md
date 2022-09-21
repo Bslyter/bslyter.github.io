@@ -36,19 +36,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   h2 {
     color = gray;
     font-size: 30px;
-    font: Copperplate;
+    font-family: Copperplate;
   }
   
   h3 {
     color = gray;
     font-size: 20px;
-    font: Verdana;
+    font-family: Verdana;
   }
   
    h4 {
     color = gray;
     font-size: 20px;
-    font: Verdana;
+    font-family: Verdana;
   }
     
     
