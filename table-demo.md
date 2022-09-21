@@ -24,7 +24,7 @@ gosling:
 
 
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+![]({{site.url}}/assets/img/ryan-v-ryan.jpg){: .mx-auto.d-block :}  
 
 
 ## Lorem Ipsum
