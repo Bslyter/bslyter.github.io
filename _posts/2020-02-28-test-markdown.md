@@ -26,11 +26,11 @@ Here's a useless table:
 
 How about a yummy goat?
 
-![Goat](http://storystruggles.blogspot.com/2018/01/wheres-goat-great-setup-and-payoff.html)
+![Goat](https://www.gamespot.com/images/1300-2840589)
 
 It can also be centered!
 
-![Goat](http://storystruggles.blogspot.com/2018/01/wheres-goat-great-setup-and-payoff.html){: .mx-auto.d-block :}
+![Goat](https://www.gamespot.com/images/1300-2840589){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
